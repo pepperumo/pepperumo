@@ -33,4 +33,4 @@ I am a **mechanical engineer** with expertise in **machine learning, data scienc
 ### 🔗 Connect with Me
 - 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961)
 
-💡 *"Optimizing robotic design with AI to shape the future of automation."* 🚀
+💡 *"Bridging AI, robotics, and engineering to drive innovation and automation."* 🚀
