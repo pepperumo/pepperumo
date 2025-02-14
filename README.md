@@ -6,7 +6,7 @@ I am a **mechanical engineer** with expertise in **machine learning, data scienc
 - 🤖 Working on **self-driving grouting robots** 🏗️
 - 🧠 Applying **Machine Learning & Deep Learning** for robotic control
 - ⚙️ Developing **Genetic Algorithms & Reinforcement Learning** for optimization
-- 🛠️ Using **FreeCAD, SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations
+- 🛠️ Using **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations
 - 🖥️ Running simulations with **ROS 2 and Gazebo**
 - 📊 Analyzing and optimizing data with **Python, NumPy, Pandas, and Scikit-learn**
 
