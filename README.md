@@ -5,7 +5,9 @@
   </a>
 </h3>
 
-## 🚀 About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961)
+## 
+🚀 About Me
 
 I am a **mechanical engineer** with expertise in **machine learning, data science, and robotics**. My passion lies in developing **self-driving robotic systems**, where I integrate **AI, CAD design, and automation** to build cutting-edge solutions.
 
@@ -53,6 +55,12 @@ I am a **mechanical engineer** with expertise in **machine learning, data scienc
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961)
+
+# My contributions
+![Giuseppe Rumore's Github Stats](https://github-readme-stats.vercel.app/api?username=pepperumo&count_private=true&show_icons=true&theme=dark)
+
+# Most used languages
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pepperumo&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c&hide=jupyter%20notebook,html)
 
 💡 *"Bridging AI, robotics, and engineering to drive innovation and automation."* 🚀
 
