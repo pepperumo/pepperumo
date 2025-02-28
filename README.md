@@ -35,7 +35,7 @@
         <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Badge">
       </a>
     </td>
-    <td>Self-Driving and ROS 2 - Learn by Doing! Odometry & Control – Udemy Course</td>
+    <td>Self-Driving and ROS 2 - Learn by Doing! Odometry & Control </td>
   </tr>
   <tr>
     <td align="center">
