@@ -7,12 +7,62 @@
 
 ## 📜 Certifications
 
-[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/H7XUQXGI3O5M)  
-[![Machine Learning Specialization](https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/RZS3DFHHQVDC)  
-[![Complete Data Science Bootcamp](https://img.shields.io/badge/Data%20Science%20Bootcamp-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b2344127-ae60-4358-9c42-8a33d449ea45/)  
-[![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning%20Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/S5X2ISJLHPYU)  
-[![MLOps Specialization](https://img.shields.io/badge/MLOps%20Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/ZC2SLKO3FBZ0)  
-[![Computer Vision with TensorFlow](https://img.shields.io/badge/Computer%20Vision%20with%20TensorFlow-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/BBC8GIDMRWBB)  
+<p align="center">
+<table>
+  <tr>
+    <th>Badge</th>
+    <th>Certification</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/H7XUQXGI3O5M">
+        <img src="https://img.shields.io/badge/IBM-121FCF?style=flat-square&logo=IBM&logoColor=white" alt="IBM Badge">
+      </a>
+    </td>
+    <td>Databases and SQL for Data Science with Python – IBM & Coursera</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/RZS3DFHHQVDC">
+        <img src="https://img.shields.io/badge/Stanford%20University-8C1515?style=flat-square&logo=Stanford&logoColor=white" alt="Stanford Badge">
+      </a>
+    </td>
+    <td>Stanford Machine Learning Specialization – Taught by Andrew Ng</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.udemy.com/certificate/UC-b2344127-ae60-4358-9c42-8a33d449ea45/">
+        <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS 2 Badge">
+      </a>
+    </td>
+    <td>Self-Driving and ROS 2 - Learn by Doing! Odometry & Control – Udemy Course</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/S5X2ISJLHPYU">
+        <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure Badge">
+      </a>
+    </td>
+    <td>Microsoft Azure Fundamentals AZ-900 – Microsoft Certification</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/specialization/ZC2SLKO3FBZ0">
+        <img src="https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Badge">
+      </a>
+    </td>
+    <td>Google Advanced Data Analytics – Google & Coursera</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.coursera.org/account/accomplishments/verify/BBC8GIDMRWBB">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Badge">
+      </a>
+    </td>
+    <td>AWS Cloud Practitioner Essentials – Amazon Web Services</td>
+  </tr>
+</table>
+</p>
 
 🔗 **See my full certifications on LinkedIn:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961/details/certifications/)
