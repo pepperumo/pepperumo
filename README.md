@@ -1,13 +1,24 @@
 <!-- Centered animated greeting -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&random=false&width=550&lines=Hello+%26+Welcome!+👋;I'm+Giuseppe+Rumore" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&random=false&width=550&lines=Hello+%26+Welcome!+👋;My+name+is+Giuseppe+Rumore" alt="Typing SVG" />
   </a>
 </h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961)
-## 
-🚀 About Me
+## 📜 Certifications
+
+[![Google Data Analytics](https://img.shields.io/badge/Google%20Data%20Analytics-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/H7XUQXGI3O5M)  
+[![Machine Learning Specialization](https://img.shields.io/badge/Machine%20Learning%20Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/RZS3DFHHQVDC)  
+[![Complete Data Science Bootcamp](https://img.shields.io/badge/Data%20Science%20Bootcamp-A435F0?style=flat-square&logo=Udemy&logoColor=white)](https://www.udemy.com/certificate/UC-b2344127-ae60-4358-9c42-8a33d449ea45/)  
+[![Deep Learning Specialization](https://img.shields.io/badge/Deep%20Learning%20Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/S5X2ISJLHPYU)  
+[![MLOps Specialization](https://img.shields.io/badge/MLOps%20Specialization-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/ZC2SLKO3FBZ0)  
+[![Computer Vision with TensorFlow](https://img.shields.io/badge/Computer%20Vision%20with%20TensorFlow-0056D2?style=flat-square&logo=Coursera&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/BBC8GIDMRWBB)  
+
+🔗 **See my full certifications on LinkedIn:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961/details/certifications/)
+
+
+## 🚀 About Me
 
 I am a **mechanical engineer** with expertise in **machine learning, data science, and robotics**. My passion lies in developing **self-driving robotic systems**, where I integrate **AI, CAD design, and automation** to build cutting-edge solutions.
 
@@ -56,14 +67,27 @@ I am a **mechanical engineer** with expertise in **machine learning, data scienc
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961)
 
-# My contributions
-![Giuseppe Rumore's Github Stats](https://github-readme-stats.vercel.app/api?username=pepperumo&count_private=true&show_icons=true&theme=dark)
-
-# Most used languages
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pepperumo&count_private=true&layout=compact&title_color=553c9a&text_color=1a202c&hide=jupyter%20notebook,html)
-
 💡 *"Bridging AI, robotics, and engineering to drive innovation and automation."* 🚀
 
+---
 
+<details open="">
+    <summary>📔 GitHub Stats:</summary>
+    <br>
+    <p align="center">
+        <a href="https://github.com/pepperumo">
+            <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api?username=pepperumo&show_icons=true&count_private=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=FF6EC7&icon_color=FFDD86" height="192px" width="49.5%"/>
+        </a>
+        <a href="https://github.com/pepperumo">
+            <img align="center" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pepperumo&count_private=true&layout=compact&theme=radical&title_color=FF6EC7&text_color=FFDD86&hide=jupyter%20notebook,html" height="192px" width="49.5%"/>
+        </a>
+        <br><br>
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepperumo&theme=radical&border=7F3FBF&background=0D1117" alt="pepperumo"/>
+        <br><br>
+        <a href="https://github.com/pepperumo">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pepperumo&theme=radical" alt="pepperumo"/>
+        </a>
+    </p>
+</details>
 
 
