@@ -5,6 +5,20 @@
     </a>
 </h3>
 
+
+## 🚀 About Me
+
+I am a **mechanical engineer** with expertise in **machine learning, data science, and robotics**. My passion lies in developing **self-driving robotic systems**, where I integrate **AI, CAD design, and automation** to build cutting-edge solutions.
+
+🔹 **Current Focus:**
+- 🤖 Building **self-driving grouting robots** 🏗️  
+- 🧠 Leveraging **Machine Learning & Deep Learning** for intelligent robotic control  
+- ⚙️ Implementing **Genetic Algorithms & Reinforcement Learning** for optimization  
+- 🛠️ Designing with **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations  
+- 🌍 Simulating autonomous behaviors using **ROS 2 & Gazebo**  
+- 📊 Analyzing and optimizing performance with **Python, NumPy, Pandas, and Scikit-learn**  
+
+---
 ## 📜 Certifications
 
 <p align="center">
@@ -66,21 +80,6 @@
 
 🔗 **See my full certifications on LinkedIn:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giuseppe-rumore-b2599961/details/certifications/)
-
-
-## 🚀 About Me
-
-I am a **mechanical engineer** with expertise in **machine learning, data science, and robotics**. My passion lies in developing **self-driving robotic systems**, where I integrate **AI, CAD design, and automation** to build cutting-edge solutions.
-
-🔹 **Current Focus:**
-- 🤖 Building **self-driving grouting robots** 🏗️  
-- 🧠 Leveraging **Machine Learning & Deep Learning** for intelligent robotic control  
-- ⚙️ Implementing **Genetic Algorithms & Reinforcement Learning** for optimization  
-- 🛠️ Designing with **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations  
-- 🌍 Simulating autonomous behaviors using **ROS 2 & Gazebo**  
-- 📊 Analyzing and optimizing performance with **Python, NumPy, Pandas, and Scikit-learn**  
-
----
 
 
 
