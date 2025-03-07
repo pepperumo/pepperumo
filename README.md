@@ -11,9 +11,8 @@
 I am a **mechanical engineer** with expertise in **machine learning, data science, and robotics**. My passion lies in developing **self-driving robotic systems**, where I integrate **AI, CAD design, and automation** to build cutting-edge solutions.
 
 🔹 **Current Focus:**
-- 🤖 Building **self-driving grouting robots** 🏗️  
 - 🧠 Leveraging **Machine Learning & Deep Learning** for intelligent robotic control  
-- ⚙️ Implementing **Genetic Algorithms & Reinforcement Learning** for optimization  
+- ⚙️ Implementing **Genetic Algorithms** for optimization  
 - 🛠️ Designing with **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations  
 - 🌍 Simulating autonomous behaviors using **ROS 2 & Gazebo**  
 - 📊 Analyzing and optimizing performance with **Python, NumPy, Pandas, and Scikit-learn**  
