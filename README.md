@@ -190,11 +190,23 @@ I am a **mechanical engineer** with expertise in **machine learning, data scienc
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pepperumo&theme=radical&border=7F3FBF&background=0D1117" alt="pepperumo"/>
 </div>
 
-
----
+  
+## 📬 Contact Me
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <p>
+    <a href="https://www.linkedin.com/in/giuseppe-rumore-b2599961/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:contact@giusepperumore.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
+    </a>
+    <a href="https://github.com/pepperumo" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+  </p>
   
   <p>💡 <i>"Bridging AI, robotics, and engineering to drive innovation and automation."</i> 🚀</p>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
 </div>
