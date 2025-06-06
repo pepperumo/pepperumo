@@ -22,14 +22,13 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" />
 
-I am a **mechanical engineer** with expertise in **machine learning, data science, and robotics**. My passion lies in developing **self-driving robotic systems**, where I integrate **AI, CAD design, and automation** to build cutting-edge solutions.
+I am a **mechanical engineer** with expertise in **machine learning and data science**.
 
 ### 🔹 Current Focus
 
-- 🧠 Leveraging **Machine Learning & Deep Learning** for intelligent robotic control  
+- 🧠 Leveraging **Machine Learning & Deep Learning**  
 - ⚙️ Implementing **Genetic Algorithms** for optimization in FEA applications
 - 🛠️ Designing with **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations  
-- 🌍 Simulating autonomous behaviors using **ROS 2 & Gazebo**  
 - 📊 Building MLOps pipelines with **Python, Docker, and cloud-based solutions**
 
 <br clear="right"/>
