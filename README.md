@@ -104,13 +104,13 @@ I am a **mechanical engineer** with expertise in **machine learning and data sci
     </tr>
     <tr>
       <td width="50%">
-        <h3 align="center">Self-Driving Robot</h3>
+        <h3 align="center">AI Vehicle Damage Detector</h3>
         <p align="center">
-          <a href="https://github.com/pepperumo/Differential_self_driving_Robot_bumperbot" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=pepperumo&repo=Differential_self_driving_Robot_bumperbot&theme=tokyonight" alt="Self-Driving Robot Repo"/>
+          <a href="https://github.com/pepperumo/automated_vehicle_damage" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=pepperumo&repo=automated_vehicle_damage&theme=tokyonight" alt="AI Vehicle Damage Detector Repo"/>
           </a>
         </p>
-        <p align="center">Differential drive robot using ROS 2 for autonomous navigation</p>
+        <p align="center">A comprehensive system for automated vehicle damage detection and severity estimation using deep learning</p>
       </td>
       <td width="50%">
         <h3 align="center">Anomaly Detection</h3>
