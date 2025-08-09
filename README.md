@@ -4,7 +4,7 @@
   
   <h3>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&random=false&width=550&lines=Mechanical+Engineer;Machine+Learning+Engineer;Robotics+Specialist;CAD+%26+FEA+Expert" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1500&center=true&vCenter=true&random=false&width=550&lines=Machine+Learning+Engineer;Data+Scientist;Mechanical+Engineer" alt="Typing SVG" />
     </a>
   </h3>
 
@@ -22,12 +22,12 @@
 
 <img align="right" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Animation" />
 
-I am a **mechanical engineer** with expertise in **machine learning and data science**.
+I am a **machine learning and data science enginner** with expertise in **mechanical engineer**.
 
 ### 🔹 Current Focus
 
 - 🧠 Leveraging **Machine Learning & Deep Learning**  
-- ⚙️ Implementing **Genetic Algorithms** for optimization in FEA applications
+- ⚙️ **Computer Vision** & AI for automation, detection, and optimization in engineering workflows
 - 🛠️ Designing with **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations  
 - 📊 Building MLOps pipelines with **Python, Docker, and cloud-based solutions**
 
