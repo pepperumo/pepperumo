@@ -28,7 +28,7 @@ I am a **machine learning and data science enginner** with expertise in **mechan
 
 - 🧠 Leveraging **Machine Learning & Deep Learning**  
 - ⚙️ **Computer Vision** & AI for automation, detection, and optimization in engineering workflows
-- 🛠️ Designing with **SolidWorks, CATIA V5-V6, and Ansys** for CAD & FEA simulations  
+- 🛠️ Automations pipelines using n8n
 - 📊 Building MLOps pipelines with **Python, Docker, and cloud-based solutions**
 
 <br clear="right"/>
